@@ -80,13 +80,13 @@ Context-aware RAG chatbot with semantic retrieval and Groq-powered LLM inference
 
 ## 🌐 Portfolio
 
-[Visit My Portfolio](https://your-portfolio-link)
+[Visit My Portfolio](https://vikas-mishra-portfolio.vercel.app/)
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn: www.linkedin.com/in/vikas-mishra-2a589a215
 - GitHub: https://github.com/vikasmishra143
 
 ---
