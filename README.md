@@ -2,93 +2,47 @@
 
 ### AI Engineer | GenAI • LLMs • Edge AI • Android ML
 
-AI Engineer at Tech Mahindra working on scalable AI systems, 
+AI Engineer at Tech Mahindra building scalable GenAI systems, 
 LLM pipelines, and on-device AI applications optimized for NPUs.
 
 ---
 
 ## 🚀 Current Work
-
-- Building scalable GenAI & LLM systems
-- Working on Project Indus (Indic LLM)
-- Developing Edge AI applications for Android
-- Optimizing quantized models for Qualcomm NPUs
-- Designing real-time AI inference pipelines
+- Project Indus (Indic LLM)
+- Edge AI for Android
+- Real-time AI inference systems
+- Qualcomm NPU optimization
 
 ---
 
-## 🧠 Areas of Interest
-
-- GenAI & LLMs
-- RAG Systems
-- Agentic AI
-- Edge AI
-- Android AI Applications
-- On-device Inference
-- AI System Design
+## 🧠 Interests
+GenAI • LLMs • RAG • Agentic AI • Edge AI • On-device ML
 
 ---
 
 ## 🛠️ Tech Stack
-
-### Languages
-- Python
-- Kotlin
-- Java
-
-### AI / ML
-- PyTorch
-- TensorFlow
-- LangChain
-- RAG Pipelines
-- LLM Fine-Tuning
-- Model Quantization
-- AIMET
-- ONNX
-
-### Android
-- Jetpack Compose
-- MVVM
-- StateFlow
-- Room
-- WorkManager
-
-### Tools
-- Git
-- Firebase
-- Android Studio
-- Ollama
-- Postman
+**Languages:** Python, Kotlin, Java  
+**AI/ML:** PyTorch, TensorFlow, LangChain, RAG, AIMET, ONNX  
+**Android:** Jetpack Compose, MVVM, StateFlow  
+**Tools:** Git, Firebase, Ollama, Android Studio
 
 ---
 
 ## 📌 Featured Projects
-
-### 🔹 Fraud Call Detection (Edge AI)
-Real-time on-device fraud call detection system using speech-to-text and LLM-based classification optimized for Qualcomm NPUs.
-
-### 🔹 Project Indus
-Worked on scalable data pipelines, evaluation frameworks, and LLM workflow optimization for sovereign Indic LLM development.
-
-### 🔹 Automotive AI Assistant
-Voice-enabled Android automotive assistant with offline AI inference and edge deployment.
-
-### 🔹 GenAI RAG Chatbot
-Context-aware RAG chatbot with semantic retrieval and Groq-powered LLM inference.
+- Fraud Call Detection (Edge AI)
+- Project Indus
+- Automotive AI Assistant
+- GenAI RAG Chatbot
 
 ---
 
 ## 🌐 Portfolio
+[vikas-mishra-portfolio.vercel.app](https://vikas-mishra-portfolio.vercel.app/)
 
-[Visit My Portfolio](https://vikas-mishra-portfolio.vercel.app/)
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/vikas-mishra-2a589a215
-- GitHub: https://github.com/vikasmishra143
+## 📫 Connect
+- LinkedIn: linkedin.com/in/vikas-mishra-2a589a215
+- GitHub: github.com/vikasmishra143
 
 ---
 
-⭐ Building AI systems that work efficiently at scale and on the edge.
+⭐ Building scalable AI systems for cloud and edge environments.
